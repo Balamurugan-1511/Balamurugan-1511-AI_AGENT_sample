@@ -47,7 +47,8 @@ print("Answer:", response)
 <img width="1121" height="469" alt="image" src="https://github.com/user-attachments/assets/6a026507-f8ff-4c95-b9e6-59a335cb102e" />
 
 ##  Output
-<img width="711" height="243" alt="image" src="https://github.com/user-attachments/assets/654db5a0-f0ba-4b8b-ab38-e04a088aa6de" />
+<img width="893" height="295" alt="image" src="https://github.com/user-attachments/assets/1260c040-2e55-4f90-a245-c1285a2ad315" />
+
 
 ## 📚 Dependencies
 Transformers
